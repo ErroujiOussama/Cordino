@@ -6,4 +6,7 @@
 ![4](https://github.com/ErroujiOussama/Cordino/assets/107694414/e4c401ee-dd9f-4a1a-96a9-bff967cee08b)
 ![5](https://github.com/ErroujiOussama/Cordino/assets/107694414/6a6b106c-56f5-4db8-b37e-add333eafbc0)
 ![6](https://github.com/ErroujiOussama/Cordino/assets/107694414/1c35c50e-b5b3-4861-98a9-886aa835b803)
-[Arduino.pdf](https://github.com/ErroujiOussama/Cordino/files/13397722/Arduino.pdf)
+![7](https://github.com/ErroujiOussama/Cordino/assets/107694414/a9442e07-3b2b-4014-8d3f-f558f6adacf8)
+![8](https://github.com/ErroujiOussama/Cordino/assets/107694414/2c5d5aec-b207-4b8b-a8d7-00255289a5d7)
+![9](https://github.com/ErroujiOussama/Cordino/assets/107694414/3d504d01-9e03-4b13-affd-cd07e3196b12)
+![10](https://github.com/ErroujiOussama/Cordino/assets/107694414/46ef7c2b-d89e-4821-bb26-da6a834a76b6)
