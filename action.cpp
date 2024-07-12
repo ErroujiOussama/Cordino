@@ -1,17 +1,12 @@
 #include "Arduino.h"
 #include "action.h"
-#include <Servo.h>
+#include <Keyboard.h>
 
 
-void jump(int Servo_pin,Servo your_servo,int pin_led){
-  your_servo.write(25);
-  digitalWrite(pin_led,HIGH);
-  delay(300); 
-  your_servo.write(0);
+Keyboard.begin();
 
-  delay(300);  
-  digitalWrite(pin_led,LOW);  
-  
-  
-
+void jump(){
+  Keyboard.press(spacebar);
+  delay(500); //you can adjust this value
+  Keyboard.releaseAll();
 }                     

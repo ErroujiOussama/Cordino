@@ -5,12 +5,10 @@
 #include <Wire.h>
 #include <MPU6050.h>
 MPU6050 mpu;
-Servo my_servo;
 ////////Define Pins//////////
 #define Switch_State 4
 #define Red_LED 5
 #define Microphone_Analog A3
-#define Servo_pin 3
 #define Transistor_Base 9
 ///////////Variables ////////
 bool newState = 0;
@@ -53,7 +51,7 @@ void loop() {
     }
     
     if (calculate_sound(A3, 40, 250)) {
-      jump(Servo_pin, my_servo, Red_LED);
+      jump();
     }
   
   }
@@ -69,7 +67,7 @@ void loop() {
     Serial.print(" Xnorm = ");
     Serial.println(normAccel.XAxis);
     if (normAccel.XAxis < 0) {
-      jump(Servo_pin,my_servo,Red_LED);
+      jump();
     }
   }
 }
