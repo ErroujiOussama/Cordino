@@ -1,12 +1,16 @@
-# Cordino
-![WhatsApp Image 2023-11-17 at 08 34 35](https://github.com/ErroujiOussama/Cordino/assets/107694414/843aed2a-4d2b-4be9-a6ad-e33c3a93e258)
-![04de910a-a590-480b-b7a3-87f7cd784444 (2)](https://github.com/ErroujiOussama/Cordino/assets/107694414/fe834dad-f484-49ac-99ea-b73835e0873a)
-![2](https://github.com/ErroujiOussama/Cordino/assets/107694414/0b43830a-c43c-42f3-aa77-5ff179b8ceda)
-![3](https://github.com/ErroujiOussama/Cordino/assets/107694414/9c7d18da-dc8d-44a1-b9f1-ac27c3b9faea)
-![4](https://github.com/ErroujiOussama/Cordino/assets/107694414/e4c401ee-dd9f-4a1a-96a9-bff967cee08b)
-![5](https://github.com/ErroujiOussama/Cordino/assets/107694414/6a6b106c-56f5-4db8-b37e-add333eafbc0)
-![6](https://github.com/ErroujiOussama/Cordino/assets/107694414/1c35c50e-b5b3-4861-98a9-886aa835b803)
-![7](https://github.com/ErroujiOussama/Cordino/assets/107694414/a9442e07-3b2b-4014-8d3f-f558f6adacf8)
-![8](https://github.com/ErroujiOussama/Cordino/assets/107694414/2c5d5aec-b207-4b8b-a8d7-00255289a5d7)
-![9](https://github.com/ErroujiOussama/Cordino/assets/107694414/3d504d01-9e03-4b13-affd-cd07e3196b12)
-![10](https://github.com/ErroujiOussama/Cordino/assets/107694414/46ef7c2b-d89e-4821-bb26-da6a834a76b6)
+# Project Title
+Cordino
+## Description
+This Project is used to transform the way of controling any game can be played by just one key on the keyboard (or mouse)
+to be controlled with hand mouvement or sound command 
+## Hardware
+- Arduino (any type)
+- MPU
+- Servo (you can also control using the serial protocol via USB) => for Servo mode check the old evrsion of this project
+- Microphone Module (any digital output module)
+- Switch
+## Wiring diagram
+upadte => for this new version you don't need the Servo
+![alt text](image.png)
+
+
