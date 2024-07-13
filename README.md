@@ -4,7 +4,7 @@ to be controlled with hand mouvement or sound command
 ## Hardware
 - Arduino (any type)
 - MPU
-- Servo (you can also control using the serial protocol via USB) => for USB mode check the the other barnsh of this repo
+- Servo (you can also control using the serial protocol via USB) => for USB mode check the the other bransh of this repo
 - Microphone Module (any digital output module)
 - Switch
 ## Wiring diagram
